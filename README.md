@@ -4,7 +4,7 @@ Very interested in AI and it's applications. Currently taking classes on AI and 
 Also interested in UI design and mobile development.
 Looking for full time SWE positions after graduation, May 2024.
 
-Feel free to reach out! I have a couple of private repo's with larger projects I did, happy to share.
+Feel free to reach out! I have a couple of private repo's with larger projects I did, happy to share. \n
 Alex
 
 aen2145@columbia.edu
